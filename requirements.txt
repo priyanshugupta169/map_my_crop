@@ -1,0 +1,10 @@
+sqlalchemy==2.0.29
+fastapi==0.110.2
+pyjwt==2.8.0
+python-dotenv==1.0.1
+pytest==8.2.0
+httpx==0.27.0
+passlib==1.7.4
+requests==2.31.0
+uvicorn==0.29.0
+flake8
